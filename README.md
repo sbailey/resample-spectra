@@ -1,9 +1,9 @@
 Resampling spectra without adding covariance
-============================================
+--------------------------------------------
 
 This package provides a tech note about how to resample spectra to a new
 wavelength grid without introducing covariance, and the associated code
-for generating the examples.  It hopefully will evolve into a general-
+for generating the examples.  It hopefully will evolve into a general
 purpose python package for doing this.
 
 To generate the document pdf:
@@ -20,7 +20,7 @@ Stephen Bailey
 Lawrence Berkeley National Lab
 
 Tech Note License
-=================
+-----------------
 
 The tech note is released under the Creative Commons
 Attribution-NoDerivatives license:
@@ -28,7 +28,7 @@ Attribution-NoDerivatives license:
 http://creativecommons.org/licenses/by-nd/4.0/
 
 Code License
-============
+------------
 
 The code is released under the BSD 3-clause open source license:
 
